@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>≥¨¡¥Ω” µœ÷</title>
+</head>
+<body>
+<p><a href="https://xumeng30.github.io/xu.html" onclick="popUp(this.getAttribute('href')); return false;">first</a></p>
+<p><a href="https://xumeng30.github.io/xu.html" onclick="popUp(this.href); return false;">first</a></p>
+<p><a href="https://xumeng30.github.io/xu.html" class="popup">first</a></p>
+<script src="open.js"></script>
+</body>
+</html>
