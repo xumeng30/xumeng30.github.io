@@ -1,0 +1,10 @@
+body{
+	font-family:"Helvetica","Arical",sans-serif;
+	font-size:10pt;
+        backgrounde-color:#36f;
+}
+	abbr{
+		text-decoration:none;
+		border:0;
+		font-style:normal;
+}
